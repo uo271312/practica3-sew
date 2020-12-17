@@ -1,0 +1,44 @@
+body{
+	color:black;
+	background-color:orangered;
+	}
+	
+	h1{
+		text-align: center;
+		color: black;
+		background-color:orangered;
+	}
+	
+	form{    
+		text-align: center;
+	}
+	
+	form input {
+		height: 40px;
+		width: 300px;
+		border-radius:200px;
+		color: black;
+		background-color:white;
+	}
+	
+	p input {
+		height: 40px;
+		width: 90px;
+		color: black;
+		text-align:center;
+		background-color:white;
+	}
+	input{
+		text-align: right;
+	}
+ul{
+	
+	background-color: white;
+	list-style-type: none;
+}
+ul li{
+	
+	
+	text-align: center;
+	
+}
